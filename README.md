@@ -9,7 +9,7 @@ UT Tooti is a social media created i for the CA-3 using C.
 
 ## Usage
 ### Releases
-A Windows build of the game is available [here](https://t.me/hashemi_m9).
+you can get the latest windows build of app from me in here [here](https://t.me/hashemi_m9).
 ### Running from source
 install mingw **and** run "gcc main.c command.c static.c -o uttooti.exe" in shell.
 
