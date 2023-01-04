@@ -12,5 +12,3 @@ install mingw **and** run "gcc main.c command.c static.c -o uttooti.exe" in shel
 
 ## Contributing
 Pull requests are welcome! For major refactors, please open an issue first to discuss what you would like to improve. Feel free to create a fork of this repository and use the code for improving your own code.
-
-my telegram :[here](https://t.me/hashemi_m9).
